@@ -1,0 +1,27 @@
+8 8
+o o pirate o o gold o o
+storm o o o o o o o
+o o o o o o o o
+o o o gold o o o o
+diamond o o storm o o o island
+pirate o diamond o gold o o o
+o o o o o treasure storm o
+o o o o o o o gold
+
+
+
+
+/* Instruction:
+In first line input the rows and columns
+From next lines, input "o" to set it as normal location
+Note: the first location is the harbour, should be "o". Specific location set in there will be ignore.
+Specific locations:
+- Gold: input "gold" (at least 1 gold)
+- Diamond: input "diamond" (at least 1 diamond)
+- Island: input "island" (only 1 island)
+- Treasure: input "treasure" (only 1 treasure)
+Obstacles:
+- Storm: input "storm"
+- Pirate: input "pirate"
+
+*/
